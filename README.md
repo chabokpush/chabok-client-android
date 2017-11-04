@@ -6,7 +6,7 @@ Know your users's better, push them content based on their location or track the
 
 
 ### Installation
-See Chabok Push [Android library installation](http://doc.chabokpush.com/android/installation.html) document.
+See Chabok Push [Android library installation](http://doc.chabokpush.com/android/gradle-setup.html) document.
 
 
 ### Usage
