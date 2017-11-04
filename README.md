@@ -14,4 +14,4 @@ See Chabok Push [Usage](http://doc.chabokpush.com/android/application-class.html
 
 
 ### Support
-Please visit [Issues](https://github.com/behrad/chabok-client-android/issues).
+Please visit [Issues](https://github.com/chabokpush/chabok-client-android/issues).
