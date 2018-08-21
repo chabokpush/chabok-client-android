@@ -1,6 +1,5 @@
 ## Chabok Push for Android
 [![Version](https://img.shields.io/bintray/v/chabok/chabok-repo/com.adpdigital.push.svg)](https://bintray.com/chabok/chabok-repo/com.adpdigital.push)
-[ ![Download](https://api.bintray.com/packages/chabok/chabok-repo/com.adpdigital.push/images/download.svg) ](https://bintray.com/chabok/chabok-repo/com.adpdigital.push/_latestVersion)
 
 Blow some breath to your app with Chabok realtime messaging and receive push notifications cross any platform with zero code.
 Know your users's better, push them content based on their location or track their presence/location withoud headache.
