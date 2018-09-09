@@ -1,4 +1,6 @@
-![Logo](https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/Android.svg)
+<p align="center"> 
+  <img src="https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/Android.svg">
+</p>
 
 # Chabok Push for Android
 [![Version](https://img.shields.io/bintray/v/chabok/chabok-repo/com.adpdigital.push.svg)](https://bintray.com/chabok/chabok-repo/com.adpdigital.push)
