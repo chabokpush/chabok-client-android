@@ -1,4 +1,6 @@
-## Chabok Push for Android
+![Logo](https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/Android.svg)
+
+# Chabok Push for Android
 [![Version](https://img.shields.io/bintray/v/chabok/chabok-repo/com.adpdigital.push.svg)](https://bintray.com/chabok/chabok-repo/com.adpdigital.push)
 
 Blow some breath to your app with Chabok realtime messaging and receive push notifications cross any platform with zero code.
