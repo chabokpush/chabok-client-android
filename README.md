@@ -11,11 +11,11 @@ Know your users's better, push them content based on their location or track the
 
 
 ### Installation
-See Chabok Push [Android library installation](http://doc.chabokpush.com/android/gradle-setup.html) document.
+See Chabok Push [Android library installation](https://doc.chabokpush.com/android/sdk-setup.html#%DB%B1--%D9%86%D8%B5%D8%A8-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87) document.
 
 
 ### Usage
-See Chabok Push [Usage](http://doc.chabokpush.com/android/application-class.html) page for a list of all available methods.
+See Chabok Push [Usage](https://doc.chabokpush.com/android/sdk-setup.html#%DB%B3--%D9%85%D9%82%D8%AF%D8%A7%D8%B1%D8%AF%D9%87%DB%8C-%D8%A7%D9%88%D9%84%DB%8C%D9%87-initialize) page for a list of all available methods.
 
 
 ### Support
